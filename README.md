@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **contribute to open source**
 
-- 📝 I regulary write articles on [https://maxwellnewage.medium.com/](https://medium.com/@maxwellnewage)
+- 📝 I regulary write articles on [https://medium.com/@maxiburgos](https://medium.com/@maxiburgos)
 
 - 💬 Ask me about **android, java, kotlin, php, laravel**
 
