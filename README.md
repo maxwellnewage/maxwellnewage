@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Burgos</h1>
-<h3 align="center">A passionate Android Developer</h3>
+<h3 align="center">A passionate Developer and Data Scientist</h3>
 
 - 🌱 I’m currently learning **contribute to open source**
 
