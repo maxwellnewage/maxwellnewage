@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **contribute to open source**
 
-- 📝 I regulary write articles on [https://maxiburgos.com/](https://maxiburgos.com/)
+- 📝 I regulary write articles on [https://dev.to/maxwellnewage](https://dev.to/maxwellnewage)
 
-- 💬 Ask me about **android, java, kotlin, php, laravel**
+- 💬 Ask me about **Android, Kotlin, Javascript & Python**
 
 - 📫 How to reach me **maxib2007@gmail.com**
 
