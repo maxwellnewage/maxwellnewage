@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Burgos</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A passionate full stack developer from Argentina. Currently I have advanced knowledge in mobile development on Android with Kotlin. I also develop websites and APIs with Python (Django and Flask). On the other hand, I work as an instructor for different institutions.</h3>
 
-- 🔭 I'm currently working on [Udemy](https://www.udemy.com/user/maximiliano-burgos/)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"  />
+</div>
+
+- 🔭 I'm currently working as Instructor on [Udemy Courses](https://www.udemy.com/user/maximiliano-burgos/)
 
 - 📝 I regularly write articles on [https://dev.to/maxwellnewage](https://dev.to/maxwellnewage)
 
