@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Burgos</h1>
-<h3 align="center">A passionate full stack developer from Argentina. Currently I have advanced knowledge in mobile development on Android with Kotlin. I also develop websites and APIs with Python (Django and Flask). On the other hand, I work as an instructor for different institutions.</h3>
+<h3 align="center">Currently I have advanced knowledge in mobile development on Android with Kotlin. I also develop websites and APIs with Python (Django and Flask). On the other hand, I work as an instructor for different institutions.</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"  />
