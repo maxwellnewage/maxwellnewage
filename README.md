@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Burgos</h1>
 
-- 🔭 I'm currently working as Instructor on [Udemy Courses](https://www.udemy.com/user/maximiliano-burgos/)
+- 🔭 I'm currently working as Instructor on [Udemy](https://www.udemy.com/user/maximiliano-burgos/) and [YouTube](https://www.youtube.com/channel/UCoysFCQbO-IDiAKK4EMxTrA).
 
-- 📝 I regularly write articles on [https://dev.to/maxwellnewage](https://dev.to/maxwellnewage)
+- 📝 I regularly write articles on [https://dev.to/maxwellnewage](https://dev.to/maxwellnewage).
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maximilianoburgos/](https://www.linkedin.com/in/maximilianoburgos/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/maximilianoburgos/](https://www.linkedin.com/in/maximilianoburgos/).
 
 - 🎙 Listen my [Podcast](https://www.youtube.com/playlist?list=PLp7PPjAxisAKVKre0a5tnjoFetQkvkZ9i)!
 
